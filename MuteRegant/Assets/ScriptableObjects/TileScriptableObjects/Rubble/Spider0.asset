@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caed0f29d2245ee4c96303d03615b0e6, type: 3}
+  m_Name: Spider0
+  m_EditorClassIdentifier: 
+  displayName: Spider
+  color: 2
+  art: {fileID: 267286932, guid: f7598238614add84ba6cc0e319ebc609, type: 3}
+  build:
+    cost: 0
+    tiles: []
+  destroy:
+    cost: 10
+    tiles:
+    - {fileID: 11400000, guid: 244aa375eaaaf8e48bd3d13870f78bbf, type: 2}
+  generateMoney: -10
+  generateMoneyT: 1
+  OnStartTriggers: []

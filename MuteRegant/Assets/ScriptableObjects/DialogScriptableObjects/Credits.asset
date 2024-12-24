@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9a7fd699dc38e647a8948623b40debd, type: 3}
+  m_Name: Credits
+  m_EditorClassIdentifier: 
+  text: "Game: @josefnpat\r\n\r\nChinese Dragon Sprite: GPL 2.0 - Sirce-AP\r\nSprites:
+    CC0 - Kenney's 1-Bit Pack\r\nCursor: CC0 - Kenney's Cursor Pack\r\nMusic: CC-4.0-BY-ND
+    - Strobotone's Medieval Theme 02\r"
+  next: {fileID: 0}
+  onlyShowOnce: 0

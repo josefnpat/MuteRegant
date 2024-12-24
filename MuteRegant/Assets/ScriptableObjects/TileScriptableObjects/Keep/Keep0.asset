@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caed0f29d2245ee4c96303d03615b0e6, type: 3}
+  m_Name: Keep0
+  m_EditorClassIdentifier: 
+  displayName: Little Keep
+  color: 6
+  art: {fileID: 1490503987, guid: f7598238614add84ba6cc0e319ebc609, type: 3}
+  build:
+    cost: 200
+    tiles:
+    - {fileID: 11400000, guid: 989bfc228b2b9814697a04b6ba4da57e, type: 2}
+  destroy:
+    cost: 0
+    tiles:
+    - {fileID: 11400000, guid: 06b9fc54775d215449f0067000d03e59, type: 2}
+  generateMoney: 1
+  generateMoneyT: 1
+  OnStartTriggers: []
